@@ -1,3 +1,9 @@
-Gặp vấn đề với data lấy từ file .xhr (data chưa chính xác nhưng những gì mình mong muốn)
-Quy trình có AI hỗ trợ nên đã hoàn thành
-Cần nghiên cứ xem AI của cursor có giới hạn token không, độ thông minh của bản trả tiền và bản free, bản trả tiền giá bao nhiêu
+Tiềm kiến nhà trong mục land.naver
+Chọn vị trí nhà nào có network có chứa file .xrh thu thập phải có tên dạng ...realEstateType..
+Copy dưới dạng cURLs
+Dùng curl converter để chuyển đổi mã cURLs thành mã .py
+Cho vào một file .py thêm dòng mã ghi kết quả sau khi request ra file .json
+Sử dụng chatbot với prompt sau để tạo UI
+    .py 와 .json 파일을 분석해서 pyside6 을 활용해서 UI가 있는 프로그램으로 바꿔줘.
+Test sản phẩm
+Xong
